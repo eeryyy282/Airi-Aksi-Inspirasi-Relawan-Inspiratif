@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="css/style3.css">
 </head>
 <body>
 <div id="home">
@@ -20,6 +21,10 @@
         <div id="ulasan"><a href="ulasan.php">ULASAN</a></div>
         <div id="kontak"><a href="kontak.php">KONTAK</a></div>
         <div id="daftar"><a href="daftar.php">DAFTAR</a></div>
+    </div>
+    <div id="navigasi2">
+        <div id="judulKecilNavigasi1">Beranda <div id="judulKecilNavigasi2">/ Sikap Dasar</div></div>
+        <div id="judulBesarNavigasi">SIKAP DASAR</div>
     </div>
 </div>
 </body>

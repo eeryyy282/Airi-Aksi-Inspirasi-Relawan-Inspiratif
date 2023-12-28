@@ -16,3 +16,198 @@
     background: #FFF;
     margin: auto;
 }
+
+
+#faqAktif {
+    width: 3.75rem;
+    height: 2.8125rem;
+    margin-right: 1.14rem;
+    justify-self: center;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    align-self: center;
+}
+
+#faqAktif a{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #419197;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    background: #FFF;
+    border-radius: 0.625rem;
+}
+
+
+#faqAktif a:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #12486B;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+
+#ulasanAKtif {
+    width: 5.9375rem;
+    height: 2.8125rem;
+    margin-right: 0.84rem;
+    justify-self: center;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    align-self: center;
+}
+
+#ulasanAKtif a{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #419197;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    background: #FFF;
+    border-radius: 0.625rem;
+}
+
+
+#ulasanAKtif a:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #12486B;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+#kontakAktif {
+    width: 5.9375rem;
+    height: 2.8125rem;
+    margin-right: 0.91rem;
+    justify-self: center;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    align-self: center;
+}
+
+#kontakAktif a{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #419197;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    background: #FFF;
+    border-radius: 0.625rem;
+}
+
+
+#kontakAktif a:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #12486B;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+
+#daftarAktif {
+    display: flex;
+    width: 5.9375rem;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    transition: transform 0.3s ease-in-out;
+    margin-left: 0.69rem;
+
+}
+
+#daftarAktif a {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    text-decoration: none;
+    color: #419197;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 0.625rem;
+    background: #FFF;
+}
+
+
+#daftarAktif a:hover {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #12486B;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    transform: scale(1.1);
+}
